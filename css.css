@@ -1,0 +1,15 @@
+#this1
+{
+	background-color:orange;
+	height:30px;
+	width:500px;
+	padding-top:10px;
+}
+#this2
+{
+	background-color:orange;
+	filter:opacity(30%);
+	height:30px;
+	width:500px;
+	padding-top:10px;
+}
